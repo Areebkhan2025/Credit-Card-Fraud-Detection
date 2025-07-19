@@ -96,7 +96,4 @@ A feature importance plot was generated using the trained XGBoost model, showing
 - XGBoost is a powerful model for fraud detection when tuned and combined with oversampling.
 - Simpler models like Logistic Regression can also perform well without resampling.
 
----
-
-## 📁 Folder Structure (Optional)
 
